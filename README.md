@@ -108,18 +108,11 @@ Traverse
 DataStructure
 │
 ├── GUI
-│ ├── Data Structure.py
 │
-├── Algorithms
-│ ├── tsp_solver.py
-│ ├── huffman_coding.py
+├── CLI
 │
-├── Data Structures
-│ ├── stack.py
-│ ├── queue.py
-│ ├── linked_list.py
-│ ├── hash_table.py
-│
+|── Main visualization  
+|
 └── README.md
 
 
@@ -141,7 +134,7 @@ Run the GUI application:
 python "Data Structure.py"
 📸 Learning Goals
 
-This repository helps understand:
+# This repository helps understand:
 
 Stack & Queue Operations
 
@@ -155,7 +148,7 @@ Tree Structures
 
 Algorithm Visualization
 
-Perfect for:
+# Perfect for:
 
 🎓 Data Structure Labs
 📚 Algorithm Practice
@@ -163,7 +156,7 @@ Perfect for:
 
 🚀 Future Improvements
 
-Planned features:
+# Planned features:
 
 Breadth First Search (BFS)
 
@@ -177,25 +170,24 @@ Sorting Visualizer
 
 Improved GUI Design
 
-👨‍💻 Author
+# 👨‍💻 Author
 
-Ziven Pereira
+## Ziven Pereira
 
 Computer Science Student
 AI • Software Development • Algorithms
 
-GitHub
+# GitHub
 https://github.com/Zivi09
 
-⭐ Support
+# ⭐ Support
 
 If you found this useful:
-
 ⭐ Star the repository
 🍴 Fork it
 📢 Share with other learners
 
-📘 Educational Purpose
+# 📘 Educational Purpose
 
 This project was created primarily for:
 
