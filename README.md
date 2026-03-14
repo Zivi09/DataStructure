@@ -1,8 +1,3 @@
-# Create a strong visual README.md using pypandoc as required
-
-import pypandoc
-
-readme_md = r"""
 # 📊 Data Structures & Algorithms Visualizer
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
